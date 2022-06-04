@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.27.10",
+    "ws": "^8.7.0"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "http-server"
+  }
+}
